@@ -1,0 +1,17 @@
+{
+  "name": "megatam/framework",
+  "description": "Megatam framework is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Haitam Khalilieh",
+      "email": "haitam@megatam.net"
+    }
+  ],
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/megatam/framework",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.2.0"
+  }
+}
